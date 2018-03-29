@@ -1,0 +1,9 @@
+C:\Users\acheema.MEYERANDASSOC\Source\Repos\MandATest\GitMandATest\GitMandATest\bin\GitMandATest.dll.config
+C:\Users\acheema.MEYERANDASSOC\Source\Repos\MandATest\GitMandATest\GitMandATest\bin\GitMandATest.dll
+C:\Users\acheema.MEYERANDASSOC\Source\Repos\MandATest\GitMandATest\GitMandATest\bin\GitMandATest.pdb
+C:\Users\acheema.MEYERANDASSOC\Source\Repos\MandATest\GitMandATest\GitMandATest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acheema.MEYERANDASSOC\Source\Repos\MandATest\GitMandATest\GitMandATest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acheema.MEYERANDASSOC\Source\Repos\MandATest\GitMandATest\GitMandATest\obj\Debug\GitMandATest.csprojResolveAssemblyReference.cache
+C:\Users\acheema.MEYERANDASSOC\Source\Repos\MandATest\GitMandATest\GitMandATest\obj\Debug\GitMandATest.csproj.CoreCompileInputs.cache
+C:\Users\acheema.MEYERANDASSOC\Source\Repos\MandATest\GitMandATest\GitMandATest\obj\Debug\GitMandATest.dll
+C:\Users\acheema.MEYERANDASSOC\Source\Repos\MandATest\GitMandATest\GitMandATest\obj\Debug\GitMandATest.pdb
